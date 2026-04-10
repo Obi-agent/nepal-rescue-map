@@ -1,0 +1,36 @@
+name,latitude,longitude,altitude_m,route_names,description_notes,approximate_coordinate
+Lukla,27.68778,86.73139,2860,Everest Base Camp (EBC) Trek | Gokyo Valley Trek (and Renjo La Pass),nearest airstrip and primary medevac point; Lukla Hospital is a short but arduous uphill walk from the landing area | Full heli services; primary evac point with airstrip,no
+Namche Bazaar,27.80528,86.71058,3440,Everest Base Camp (EBC) Trek | Gokyo Valley Trek (and Renjo La Pass),major evacuation hub; has helipad on top of a hill | Major evacuation hub with helipad on top of a hill,no
+Tengboche,27.835951,86.76394,3860,Everest Base Camp (EBC) Trek,helipad available; common evac point,no
+Dingboche,27.892303,86.831444,4410,Everest Base Camp (EBC) Trek,frequent altitude illness evacuations,no
+Pheriche,27.89382,86.8189,4371,Everest Base Camp (EBC) Trek,Himalayan Rescue Association (HRA) aid post + helipad,no
+Gorak Shep,27.98098,86.82856,5164,Everest Base Camp (EBC) Trek,high-altitude evac point first-aid post with a doctor,no
+Everest Base Camp (EBC),28.00369,86.85324,5364,Everest Base Camp (EBC) Trek,frequent rescues; designated helipad,no
+Dole,27.866911,86.730635,4038,Gokyo Valley Trek (and Renjo La Pass),Open flat terrain allows for helicopter landing,no
+Machhermo,27.90448,86.71808,4470,Gokyo Valley Trek (and Renjo La Pass),Regular evac zone for altitude illness; helipad available,no
+Gokyo Village,27.95444,86.69528,4790,Gokyo Valley Trek (and Renjo La Pass),Established helipad near lake; high-risk zone due to altitude,no
+Gokyo Ri,27.962071,86.682834,5357,Gokyo Valley Trek (and Renjo La Pass),Evac possible in clear weather (difficult landings),no
+Renjo La Pass,27.9475,86.65861,5360,Gokyo Valley Trek (and Renjo La Pass),Very remote; possible long-line extraction if urgent,no
+Thame,27.83057,86.65257,3800,Gokyo Valley Trek (and Renjo La Pass),Helipad available; common re-entry point after Renjo La,no
+Ghandruk,28.463279,83.826088,2012,Annapurna Base Camp (ABC) Trek | Ghorepani-Poon Hill Trek,helipad | helipad in village,no
+Chhomrong,28.42426,83.81853,2170,Annapurna Base Camp (ABC) Trek,frequent evac location,no
+Himalaya Hotel,28.4885,83.888,2920,Annapurna Base Camp (ABC) Trek,clear landing zone,yes
+Machhapuchhre Base Camp (MBC),28.526604,83.907668,3700,Annapurna Base Camp (ABC) Trek,high-use helipad,no
+Annapurna Base Camp (ABC),28.530417,83.872889,4130,Annapurna Base Camp (ABC) Trek,established helipad; used frequently,no
+Chame,28.55369,84.25097,2650,Annapurna Circuit Trek,"district HQ, rescue flights available",no
+Manang,28.641948,84.185712,3519,Annapurna Circuit Trek,HRA aid post; regular evac site,no
+Yak Kharka / Thorong Phedi,28.787229,83.955564,4450,Annapurna Circuit Trek,emergency evac zone,yes
+Muktinath,28.80175,83.85791,3710,Annapurna Circuit Trek,helipad available,no
+Jomsom,28.776505,83.773026,2743,Annapurna Circuit Trek | Upper Mustang Trek,airstrip for evac and transfers | regional airstrip; rescue hub,no
+Lama Hotel,28.161507,85.430074,2500,Langtang Valley Trek,basic clearing for pickup,no
+Langtang Village,28.21639,85.50611,3430,Langtang Valley Trek,cleared post-quake rescue zone,yes
+Kyanjin Gompa,28.2119,85.5607,3870,Langtang Valley Trek,helipad; primary evac point,yes
+Samagaun,28.635206,84.5851,3530,Manaslu Circuit Trek,helipad near village,no
+Samdo,28.65238,84.63762,3875,Manaslu Circuit Trek,remote evac location,no
+Bimthang,28.63384,84.47129,3720,Manaslu Circuit Trek,open space for pickups,no
+Dharapani,28.518056,84.358611,1860,Manaslu Circuit Trek,regional exit point,yes
+High Camp,28.433774,83.868204,3580,Mardi Himal Trek,designated landing zone,no
+Mardi Himal Base Camp,28.464286,83.901681,5587,Mardi Himal Trek,limited access; possible landing,no
+Ghorepani,28.399857,83.689384,2874,Ghorepani-Poon Hill Trek,frequent evac for elderly/injured,no
+Poon Hill Viewpoint,28.392924,83.687649,3210,Ghorepani-Poon Hill Trek,used in emergencies,no
+Lo Manthang,29.208046,83.868507,3840,Upper Mustang Trek,helipad established,no

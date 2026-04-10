@@ -1,0 +1,892 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lukla",
+        "name": "Lukla",
+        "altitude_m": 2860,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek",
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#D32F2F",
+          "#1976D2"
+        ],
+        "descriptions": [
+          "nearest airstrip and primary medevac point; Lukla Hospital is a short but arduous uphill walk from the landing area",
+          "Full heli services; primary evac point with airstrip"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.73139,
+          27.68778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "namche-bazaar",
+        "name": "Namche Bazaar",
+        "altitude_m": 3440,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek",
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#D32F2F",
+          "#1976D2"
+        ],
+        "descriptions": [
+          "major evacuation hub; has helipad on top of a hill",
+          "Major evacuation hub with helipad on top of a hill"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.71058,
+          27.80528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tengboche",
+        "name": "Tengboche",
+        "altitude_m": 3860,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek"
+        ],
+        "route_colours": [
+          "#D32F2F"
+        ],
+        "descriptions": [
+          "helipad available; common evac point"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.76394,
+          27.835951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dingboche",
+        "name": "Dingboche",
+        "altitude_m": 4410,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek"
+        ],
+        "route_colours": [
+          "#D32F2F"
+        ],
+        "descriptions": [
+          "frequent altitude illness evacuations"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.831444,
+          27.892303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pheriche",
+        "name": "Pheriche",
+        "altitude_m": 4371,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek"
+        ],
+        "route_colours": [
+          "#D32F2F"
+        ],
+        "descriptions": [
+          "Himalayan Rescue Association (HRA) aid post + helipad"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8189,
+          27.89382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gorak-shep",
+        "name": "Gorak Shep",
+        "altitude_m": 5164,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek"
+        ],
+        "route_colours": [
+          "#D32F2F"
+        ],
+        "descriptions": [
+          "high-altitude evac point first-aid post with a doctor"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.82856,
+          27.98098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "everest-base-camp-ebc",
+        "name": "Everest Base Camp (EBC)",
+        "altitude_m": 5364,
+        "route_names": [
+          "Everest Base Camp (EBC) Trek"
+        ],
+        "route_colours": [
+          "#D32F2F"
+        ],
+        "descriptions": [
+          "frequent rescues; designated helipad"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.85324,
+          28.00369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dole",
+        "name": "Dole",
+        "altitude_m": 4038,
+        "route_names": [
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#1976D2"
+        ],
+        "descriptions": [
+          "Open flat terrain allows for helicopter landing"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.730635,
+          27.866911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "machhermo",
+        "name": "Machhermo",
+        "altitude_m": 4470,
+        "route_names": [
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#1976D2"
+        ],
+        "descriptions": [
+          "Regular evac zone for altitude illness; helipad available"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.71808,
+          27.90448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gokyo-village",
+        "name": "Gokyo Village",
+        "altitude_m": 4790,
+        "route_names": [
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#1976D2"
+        ],
+        "descriptions": [
+          "Established helipad near lake; high-risk zone due to altitude"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.69528,
+          27.95444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gokyo-ri",
+        "name": "Gokyo Ri",
+        "altitude_m": 5357,
+        "route_names": [
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#1976D2"
+        ],
+        "descriptions": [
+          "Evac possible in clear weather (difficult landings)"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.682834,
+          27.962071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "renjo-la-pass",
+        "name": "Renjo La Pass",
+        "altitude_m": 5360,
+        "route_names": [
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#1976D2"
+        ],
+        "descriptions": [
+          "Very remote; possible long-line extraction if urgent"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.65861,
+          27.9475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "thame",
+        "name": "Thame",
+        "altitude_m": 3800,
+        "route_names": [
+          "Gokyo Valley Trek (and Renjo La Pass)"
+        ],
+        "route_colours": [
+          "#1976D2"
+        ],
+        "descriptions": [
+          "Helipad available; common re-entry point after Renjo La"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.65257,
+          27.83057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ghandruk",
+        "name": "Ghandruk",
+        "altitude_m": 2012,
+        "route_names": [
+          "Annapurna Base Camp (ABC) Trek",
+          "Ghorepani-Poon Hill Trek"
+        ],
+        "route_colours": [
+          "#388E3C",
+          "#5D4037"
+        ],
+        "descriptions": [
+          "helipad",
+          "helipad in village"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.826088,
+          28.463279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chhomrong",
+        "name": "Chhomrong",
+        "altitude_m": 2170,
+        "route_names": [
+          "Annapurna Base Camp (ABC) Trek"
+        ],
+        "route_colours": [
+          "#388E3C"
+        ],
+        "descriptions": [
+          "frequent evac location"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.81853,
+          28.42426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "himalaya-hotel",
+        "name": "Himalaya Hotel",
+        "altitude_m": 2920,
+        "route_names": [
+          "Annapurna Base Camp (ABC) Trek"
+        ],
+        "route_colours": [
+          "#388E3C"
+        ],
+        "descriptions": [
+          "clear landing zone"
+        ],
+        "approximate_coordinate": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.888,
+          28.4885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "machhapuchhre-base-camp-mbc",
+        "name": "Machhapuchhre Base Camp (MBC)",
+        "altitude_m": 3700,
+        "route_names": [
+          "Annapurna Base Camp (ABC) Trek"
+        ],
+        "route_colours": [
+          "#388E3C"
+        ],
+        "descriptions": [
+          "high-use helipad"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.907668,
+          28.526604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "annapurna-base-camp-abc",
+        "name": "Annapurna Base Camp (ABC)",
+        "altitude_m": 4130,
+        "route_names": [
+          "Annapurna Base Camp (ABC) Trek"
+        ],
+        "route_colours": [
+          "#388E3C"
+        ],
+        "descriptions": [
+          "established helipad; used frequently"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.872889,
+          28.530417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chame",
+        "name": "Chame",
+        "altitude_m": 2650,
+        "route_names": [
+          "Annapurna Circuit Trek"
+        ],
+        "route_colours": [
+          "#F57C00"
+        ],
+        "descriptions": [
+          "district HQ, rescue flights available"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.25097,
+          28.55369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "manang",
+        "name": "Manang",
+        "altitude_m": 3519,
+        "route_names": [
+          "Annapurna Circuit Trek"
+        ],
+        "route_colours": [
+          "#F57C00"
+        ],
+        "descriptions": [
+          "HRA aid post; regular evac site"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.185712,
+          28.641948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yak-kharka-thorong-phedi",
+        "name": "Yak Kharka / Thorong Phedi",
+        "altitude_m": 4450,
+        "route_names": [
+          "Annapurna Circuit Trek"
+        ],
+        "route_colours": [
+          "#F57C00"
+        ],
+        "descriptions": [
+          "emergency evac zone"
+        ],
+        "approximate_coordinate": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.955564,
+          28.787229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muktinath",
+        "name": "Muktinath",
+        "altitude_m": 3710,
+        "route_names": [
+          "Annapurna Circuit Trek"
+        ],
+        "route_colours": [
+          "#F57C00"
+        ],
+        "descriptions": [
+          "helipad available"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.85791,
+          28.80175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jomsom",
+        "name": "Jomsom",
+        "altitude_m": 2743,
+        "route_names": [
+          "Annapurna Circuit Trek",
+          "Upper Mustang Trek"
+        ],
+        "route_colours": [
+          "#F57C00",
+          "#455A64"
+        ],
+        "descriptions": [
+          "airstrip for evac and transfers",
+          "regional airstrip; rescue hub"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.773026,
+          28.776505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lama-hotel",
+        "name": "Lama Hotel",
+        "altitude_m": 2500,
+        "route_names": [
+          "Langtang Valley Trek"
+        ],
+        "route_colours": [
+          "#7B1FA2"
+        ],
+        "descriptions": [
+          "basic clearing for pickup"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.430074,
+          28.161507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "langtang-village",
+        "name": "Langtang Village",
+        "altitude_m": 3430,
+        "route_names": [
+          "Langtang Valley Trek"
+        ],
+        "route_colours": [
+          "#7B1FA2"
+        ],
+        "descriptions": [
+          "cleared post-quake rescue zone"
+        ],
+        "approximate_coordinate": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.50611,
+          28.21639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kyanjin-gompa",
+        "name": "Kyanjin Gompa",
+        "altitude_m": 3870,
+        "route_names": [
+          "Langtang Valley Trek"
+        ],
+        "route_colours": [
+          "#7B1FA2"
+        ],
+        "descriptions": [
+          "helipad; primary evac point"
+        ],
+        "approximate_coordinate": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5607,
+          28.2119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "samagaun",
+        "name": "Samagaun",
+        "altitude_m": 3530,
+        "route_names": [
+          "Manaslu Circuit Trek"
+        ],
+        "route_colours": [
+          "#00897B"
+        ],
+        "descriptions": [
+          "helipad near village"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5851,
+          28.635206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "samdo",
+        "name": "Samdo",
+        "altitude_m": 3875,
+        "route_names": [
+          "Manaslu Circuit Trek"
+        ],
+        "route_colours": [
+          "#00897B"
+        ],
+        "descriptions": [
+          "remote evac location"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.63762,
+          28.65238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bimthang",
+        "name": "Bimthang",
+        "altitude_m": 3720,
+        "route_names": [
+          "Manaslu Circuit Trek"
+        ],
+        "route_colours": [
+          "#00897B"
+        ],
+        "descriptions": [
+          "open space for pickups"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.47129,
+          28.63384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dharapani",
+        "name": "Dharapani",
+        "altitude_m": 1860,
+        "route_names": [
+          "Manaslu Circuit Trek"
+        ],
+        "route_colours": [
+          "#00897B"
+        ],
+        "descriptions": [
+          "regional exit point"
+        ],
+        "approximate_coordinate": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.358611,
+          28.518056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "high-camp",
+        "name": "High Camp",
+        "altitude_m": 3580,
+        "route_names": [
+          "Mardi Himal Trek"
+        ],
+        "route_colours": [
+          "#C2185B"
+        ],
+        "descriptions": [
+          "designated landing zone"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.868204,
+          28.433774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mardi-himal-base-camp",
+        "name": "Mardi Himal Base Camp",
+        "altitude_m": 5587,
+        "route_names": [
+          "Mardi Himal Trek"
+        ],
+        "route_colours": [
+          "#C2185B"
+        ],
+        "descriptions": [
+          "limited access; possible landing"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.901681,
+          28.464286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ghorepani",
+        "name": "Ghorepani",
+        "altitude_m": 2874,
+        "route_names": [
+          "Ghorepani-Poon Hill Trek"
+        ],
+        "route_colours": [
+          "#5D4037"
+        ],
+        "descriptions": [
+          "frequent evac for elderly/injured"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.689384,
+          28.399857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "poon-hill-viewpoint",
+        "name": "Poon Hill Viewpoint",
+        "altitude_m": 3210,
+        "route_names": [
+          "Ghorepani-Poon Hill Trek"
+        ],
+        "route_colours": [
+          "#5D4037"
+        ],
+        "descriptions": [
+          "used in emergencies"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.687649,
+          28.392924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lo-manthang",
+        "name": "Lo Manthang",
+        "altitude_m": 3840,
+        "route_names": [
+          "Upper Mustang Trek"
+        ],
+        "route_colours": [
+          "#455A64"
+        ],
+        "descriptions": [
+          "helipad established"
+        ],
+        "approximate_coordinate": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.868507,
+          29.208046
+        ]
+      }
+    }
+  ]
+}

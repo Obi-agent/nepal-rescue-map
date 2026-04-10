@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Nepal Trekking Routes and Helicopter Rescue Points</name>
+  <description>Waypoint-based planning map generated from Main Routes - Nepal workbook. Coordinates are approximate public-reference geocodes where trail GPS was not supplied.</description>
+  <Style id="everest-base-camp-ebc-trek-line">
+    <LineStyle><color>ff2F2FD3</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="gokyo-valley-trek-and-renjo-la-pass-line">
+    <LineStyle><color>ffD27619</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="annapurna-base-camp-abc-trek-line">
+    <LineStyle><color>ff3C8E38</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="annapurna-circuit-trek-line">
+    <LineStyle><color>ff007CF5</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="langtang-valley-trek-line">
+    <LineStyle><color>ffA21F7B</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="manaslu-circuit-trek-line">
+    <LineStyle><color>ff7B8900</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="mardi-himal-trek-line">
+    <LineStyle><color>ff5B18C2</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="ghorepani-poon-hill-trek-line">
+    <LineStyle><color>ff37405D</color><width>4</width></LineStyle>
+  </Style>
+  <Style id="upper-mustang-trek-line">
+    <LineStyle><color>ff645A45</color><width>4</width></LineStyle>
+  </Style>
+  <Folder><name>Everest Base Camp (EBC) Trek</name>
+    <Placemark>
+      <name>Everest Base Camp (EBC) Trek</name>
+      <description>Route: Lukla – Phakding – Namche Bazaar – Tengboche – Dingboche – Lobuche – Gorak Shep – Everest Base Camp
+Rescue points: 7
+Rescue altitude range: 2,860m to 5,364m</description>
+      <styleUrl>#everest-base-camp-ebc-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>86.73139,27.68778,0 86.71256,27.74004,0 86.71058,27.80528,0 86.76394,27.835951,0 86.831444,27.892303,0 86.7908,27.9587,0 86.82856,27.98098,0 86.85324,28.00369,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lukla</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek; Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 2,860m
+Notes: nearest airstrip and primary medevac point; Lukla Hospital is a short but arduous uphill walk from the landing area | Full heli services; primary evac point with airstrip
+Approximate coordinate: No</description>
+      <Point><coordinates>86.73139,27.68778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Namche Bazaar</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek; Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 3,440m
+Notes: major evacuation hub; has helipad on top of a hill | Major evacuation hub with helipad on top of a hill
+Approximate coordinate: No</description>
+      <Point><coordinates>86.71058,27.80528,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tengboche</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek
+Altitude: 3,860m
+Notes: helipad available; common evac point
+Approximate coordinate: No</description>
+      <Point><coordinates>86.76394,27.835951,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dingboche</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek
+Altitude: 4,410m
+Notes: frequent altitude illness evacuations
+Approximate coordinate: No</description>
+      <Point><coordinates>86.831444,27.892303,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pheriche</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek
+Altitude: 4,371m
+Notes: Himalayan Rescue Association (HRA) aid post + helipad
+Approximate coordinate: No</description>
+      <Point><coordinates>86.8189,27.89382,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gorak Shep</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek
+Altitude: 5,164m
+Notes: high-altitude evac point first-aid post with a doctor
+Approximate coordinate: No</description>
+      <Point><coordinates>86.82856,27.98098,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Everest Base Camp (EBC)</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek
+Altitude: 5,364m
+Notes: frequent rescues; designated helipad
+Approximate coordinate: No</description>
+      <Point><coordinates>86.85324,28.00369,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Gokyo Valley Trek (and Renjo La Pass)</name>
+    <Placemark>
+      <name>Gokyo Valley Trek (and Renjo La Pass)</name>
+      <description>Route: Lukla – Phakding – Namche Bazaar – Dole – Machhermo – Gokyo – Gokyo Ri – (optional: Renjo La Pass – Thame – Namche)
+Rescue points: 8
+Rescue altitude range: 2,860m to 5,360m</description>
+      <styleUrl>#gokyo-valley-trek-and-renjo-la-pass-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>86.73139,27.68778,0 86.71256,27.74004,0 86.71058,27.80528,0 86.730635,27.866911,0 86.71808,27.90448,0 86.69528,27.95444,0 86.682834,27.962071,0 86.65861,27.9475,0 86.65257,27.83057,0 86.71058,27.80528,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lukla</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek; Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 2,860m
+Notes: nearest airstrip and primary medevac point; Lukla Hospital is a short but arduous uphill walk from the landing area | Full heli services; primary evac point with airstrip
+Approximate coordinate: No</description>
+      <Point><coordinates>86.73139,27.68778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Namche Bazaar</name>
+      <description>Route(s): Everest Base Camp (EBC) Trek; Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 3,440m
+Notes: major evacuation hub; has helipad on top of a hill | Major evacuation hub with helipad on top of a hill
+Approximate coordinate: No</description>
+      <Point><coordinates>86.71058,27.80528,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dole</name>
+      <description>Route(s): Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 4,038m
+Notes: Open flat terrain allows for helicopter landing
+Approximate coordinate: No</description>
+      <Point><coordinates>86.730635,27.866911,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Machhermo</name>
+      <description>Route(s): Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 4,470m
+Notes: Regular evac zone for altitude illness; helipad available
+Approximate coordinate: No</description>
+      <Point><coordinates>86.71808,27.90448,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gokyo Village</name>
+      <description>Route(s): Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 4,790m
+Notes: Established helipad near lake; high-risk zone due to altitude
+Approximate coordinate: No</description>
+      <Point><coordinates>86.69528,27.95444,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gokyo Ri</name>
+      <description>Route(s): Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 5,357m
+Notes: Evac possible in clear weather (difficult landings)
+Approximate coordinate: No</description>
+      <Point><coordinates>86.682834,27.962071,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Renjo La Pass</name>
+      <description>Route(s): Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 5,360m
+Notes: Very remote; possible long-line extraction if urgent
+Approximate coordinate: No</description>
+      <Point><coordinates>86.65861,27.9475,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Thame</name>
+      <description>Route(s): Gokyo Valley Trek (and Renjo La Pass)
+Altitude: 3,800m
+Notes: Helipad available; common re-entry point after Renjo La
+Approximate coordinate: No</description>
+      <Point><coordinates>86.65257,27.83057,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Annapurna Base Camp (ABC) Trek</name>
+    <Placemark>
+      <name>Annapurna Base Camp (ABC) Trek</name>
+      <description>Route: Nayapul – Ghandruk – Chhomrong – Himalaya Hotel – Machhapuchhre Base Camp – Annapurna Base Camp
+Rescue points: 5
+Rescue altitude range: 2,000m to 4,130m</description>
+      <styleUrl>#annapurna-base-camp-abc-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>83.88858,28.33013,0 83.826088,28.463279,0 83.81853,28.42426,0 83.888,28.4885,0 83.907668,28.526604,0 83.872889,28.530417,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ghandruk</name>
+      <description>Route(s): Annapurna Base Camp (ABC) Trek; Ghorepani-Poon Hill Trek
+Altitude: 2,012m
+Notes: helipad | helipad in village
+Approximate coordinate: No</description>
+      <Point><coordinates>83.826088,28.463279,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chhomrong</name>
+      <description>Route(s): Annapurna Base Camp (ABC) Trek
+Altitude: 2,170m
+Notes: frequent evac location
+Approximate coordinate: No</description>
+      <Point><coordinates>83.81853,28.42426,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Himalaya Hotel</name>
+      <description>Route(s): Annapurna Base Camp (ABC) Trek
+Altitude: 2,920m
+Notes: clear landing zone
+Approximate coordinate: Yes</description>
+      <Point><coordinates>83.888,28.4885,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Machhapuchhre Base Camp (MBC)</name>
+      <description>Route(s): Annapurna Base Camp (ABC) Trek
+Altitude: 3,700m
+Notes: high-use helipad
+Approximate coordinate: No</description>
+      <Point><coordinates>83.907668,28.526604,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Annapurna Base Camp (ABC)</name>
+      <description>Route(s): Annapurna Base Camp (ABC) Trek
+Altitude: 4,130m
+Notes: established helipad; used frequently
+Approximate coordinate: No</description>
+      <Point><coordinates>83.872889,28.530417,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Annapurna Circuit Trek</name>
+    <Placemark>
+      <name>Annapurna Circuit Trek</name>
+      <description>Route: Besisahar – Chame – Manang – Yak Kharka – Thorong Phedi – Thorong La Pass – Muktinath – Jomsom
+Rescue points: 5
+Rescue altitude range: 2,650m to 4,450m</description>
+      <styleUrl>#annapurna-circuit-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>84.3775,28.23111,0 84.25097,28.55369,0 84.185712,28.641948,0 83.955564,28.787229,0 83.941,28.802,0 83.85791,28.80175,0 83.773026,28.776505,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Chame</name>
+      <description>Route(s): Annapurna Circuit Trek
+Altitude: 2,650m
+Notes: district HQ, rescue flights available
+Approximate coordinate: No</description>
+      <Point><coordinates>84.25097,28.55369,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manang</name>
+      <description>Route(s): Annapurna Circuit Trek
+Altitude: 3,519m
+Notes: HRA aid post; regular evac site
+Approximate coordinate: No</description>
+      <Point><coordinates>84.185712,28.641948,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Yak Kharka / Thorong Phedi</name>
+      <description>Route(s): Annapurna Circuit Trek
+Altitude: 4,450m
+Notes: emergency evac zone
+Approximate coordinate: Yes</description>
+      <Point><coordinates>83.955564,28.787229,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Muktinath</name>
+      <description>Route(s): Annapurna Circuit Trek
+Altitude: 3,710m
+Notes: helipad available
+Approximate coordinate: No</description>
+      <Point><coordinates>83.85791,28.80175,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jomsom</name>
+      <description>Route(s): Annapurna Circuit Trek; Upper Mustang Trek
+Altitude: 2,743m
+Notes: airstrip for evac and transfers | regional airstrip; rescue hub
+Approximate coordinate: No</description>
+      <Point><coordinates>83.773026,28.776505,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Langtang Valley Trek</name>
+    <Placemark>
+      <name>Langtang Valley Trek</name>
+      <description>Route: Syabrubesi – Lama Hotel – Langtang Village – Kyanjin Gompa
+Rescue points: 3
+Rescue altitude range: 2,500m to 3,870m</description>
+      <styleUrl>#langtang-valley-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>85.398703,28.15489,0 85.430074,28.161507,0 85.50611,28.21639,0 85.5607,28.2119,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lama Hotel</name>
+      <description>Route(s): Langtang Valley Trek
+Altitude: 2,500m
+Notes: basic clearing for pickup
+Approximate coordinate: No</description>
+      <Point><coordinates>85.430074,28.161507,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Langtang Village</name>
+      <description>Route(s): Langtang Valley Trek
+Altitude: 3,430m
+Notes: cleared post-quake rescue zone
+Approximate coordinate: Yes</description>
+      <Point><coordinates>85.50611,28.21639,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kyanjin Gompa</name>
+      <description>Route(s): Langtang Valley Trek
+Altitude: 3,870m
+Notes: helipad; primary evac point
+Approximate coordinate: Yes</description>
+      <Point><coordinates>85.5607,28.2119,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Manaslu Circuit Trek</name>
+    <Placemark>
+      <name>Manaslu Circuit Trek</name>
+      <description>Route: Soti Khola – Maccha Khola – Samagaun – Samdo – Larke Pass – Bimthang – Dharapani
+Rescue points: 4
+Rescue altitude range: 1,860m to 3,875m</description>
+      <styleUrl>#manaslu-circuit-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>84.854187,28.147537,0 84.857,28.2895,0 84.5851,28.635206,0 84.63762,28.65238,0 84.508724,28.66121,0 84.47129,28.63384,0 84.358611,28.518056,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Samagaun</name>
+      <description>Route(s): Manaslu Circuit Trek
+Altitude: 3,530m
+Notes: helipad near village
+Approximate coordinate: No</description>
+      <Point><coordinates>84.5851,28.635206,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Samdo</name>
+      <description>Route(s): Manaslu Circuit Trek
+Altitude: 3,875m
+Notes: remote evac location
+Approximate coordinate: No</description>
+      <Point><coordinates>84.63762,28.65238,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bimthang</name>
+      <description>Route(s): Manaslu Circuit Trek
+Altitude: 3,720m
+Notes: open space for pickups
+Approximate coordinate: No</description>
+      <Point><coordinates>84.47129,28.63384,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dharapani</name>
+      <description>Route(s): Manaslu Circuit Trek
+Altitude: 1,860m
+Notes: regional exit point
+Approximate coordinate: Yes</description>
+      <Point><coordinates>84.358611,28.518056,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Mardi Himal Trek</name>
+    <Placemark>
+      <name>Mardi Himal Trek</name>
+      <description>Route: Kande – Forest Camp – High Camp – Mardi Himal Base Camp
+Rescue points: 2
+Rescue altitude range: 3,580m to 5,587m</description>
+      <styleUrl>#mardi-himal-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>83.82364,28.293,0 83.8782,28.4458,0 83.868204,28.433774,0 83.901681,28.464286,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>High Camp</name>
+      <description>Route(s): Mardi Himal Trek
+Altitude: 3,580m
+Notes: designated landing zone
+Approximate coordinate: No</description>
+      <Point><coordinates>83.868204,28.433774,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mardi Himal Base Camp</name>
+      <description>Route(s): Mardi Himal Trek
+Altitude: 5,587m
+Notes: limited access; possible landing
+Approximate coordinate: No</description>
+      <Point><coordinates>83.901681,28.464286,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Ghorepani-Poon Hill Trek</name>
+    <Placemark>
+      <name>Ghorepani-Poon Hill Trek</name>
+      <description>Route: Nayapul – Tikhedhunga – Ghorepani – Poon Hill – Tadapani – Ghandruk
+Rescue points: 3
+Rescue altitude range: 2,012m to 3,210m</description>
+      <styleUrl>#ghorepani-poon-hill-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>83.88858,28.33013,0 83.7755,28.3455,0 83.689384,28.399857,0 83.687649,28.392924,0 83.77584,28.38927,0 83.826088,28.463279,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ghandruk</name>
+      <description>Route(s): Annapurna Base Camp (ABC) Trek; Ghorepani-Poon Hill Trek
+Altitude: 2,012m
+Notes: helipad | helipad in village
+Approximate coordinate: No</description>
+      <Point><coordinates>83.826088,28.463279,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ghorepani</name>
+      <description>Route(s): Ghorepani-Poon Hill Trek
+Altitude: 2,874m
+Notes: frequent evac for elderly/injured
+Approximate coordinate: No</description>
+      <Point><coordinates>83.689384,28.399857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Poon Hill Viewpoint</name>
+      <description>Route(s): Ghorepani-Poon Hill Trek
+Altitude: 3,210m
+Notes: used in emergencies
+Approximate coordinate: No</description>
+      <Point><coordinates>83.687649,28.392924,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Upper Mustang Trek</name>
+    <Placemark>
+      <name>Upper Mustang Trek</name>
+      <description>Route: Jomsom – Kagbeni – Lo Manthang
+Rescue points: 2
+Rescue altitude range: 2,743m to 3,840m</description>
+      <styleUrl>#upper-mustang-trek-line</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>83.773026,28.776505,0 83.783843,28.83737,0 83.868507,29.208046,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Jomsom</name>
+      <description>Route(s): Annapurna Circuit Trek; Upper Mustang Trek
+Altitude: 2,743m
+Notes: airstrip for evac and transfers | regional airstrip; rescue hub
+Approximate coordinate: No</description>
+      <Point><coordinates>83.773026,28.776505,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lo Manthang</name>
+      <description>Route(s): Upper Mustang Trek
+Altitude: 3,840m
+Notes: helipad established
+Approximate coordinate: No</description>
+      <Point><coordinates>83.868507,29.208046,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

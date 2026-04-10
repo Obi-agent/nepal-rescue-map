@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "everest-base-camp-ebc-trek",
+        "name": "Everest Base Camp (EBC) Trek",
+        "colour": "#D32F2F",
+        "route_text": "Lukla – Phakding – Namche Bazaar – Tengboche – Dingboche – Lobuche – Gorak Shep – Everest Base Camp",
+        "rescue_point_count": 7,
+        "min_rescue_altitude_m": 2860,
+        "max_rescue_altitude_m": 5364,
+        "waypoint_names": [
+          "Lukla",
+          "Phakding",
+          "Namche Bazaar",
+          "Tengboche",
+          "Dingboche",
+          "Lobuche",
+          "Gorak Shep",
+          "Everest Base Camp (EBC)"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.73139,
+            27.68778
+          ],
+          [
+            86.71256,
+            27.74004
+          ],
+          [
+            86.71058,
+            27.80528
+          ],
+          [
+            86.76394,
+            27.835951
+          ],
+          [
+            86.831444,
+            27.892303
+          ],
+          [
+            86.7908,
+            27.9587
+          ],
+          [
+            86.82856,
+            27.98098
+          ],
+          [
+            86.85324,
+            28.00369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gokyo-valley-trek-and-renjo-la-pass",
+        "name": "Gokyo Valley Trek (and Renjo La Pass)",
+        "colour": "#1976D2",
+        "route_text": "Lukla – Phakding – Namche Bazaar – Dole – Machhermo – Gokyo – Gokyo Ri – (optional: Renjo La Pass – Thame – Namche)",
+        "rescue_point_count": 8,
+        "min_rescue_altitude_m": 2860,
+        "max_rescue_altitude_m": 5360,
+        "waypoint_names": [
+          "Lukla",
+          "Phakding",
+          "Namche Bazaar",
+          "Dole",
+          "Machhermo",
+          "Gokyo Village",
+          "Gokyo Ri",
+          "Renjo La Pass",
+          "Thame",
+          "Namche Bazaar"
+        ],
+        "has_approximate_waypoints": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.73139,
+            27.68778
+          ],
+          [
+            86.71256,
+            27.74004
+          ],
+          [
+            86.71058,
+            27.80528
+          ],
+          [
+            86.730635,
+            27.866911
+          ],
+          [
+            86.71808,
+            27.90448
+          ],
+          [
+            86.69528,
+            27.95444
+          ],
+          [
+            86.682834,
+            27.962071
+          ],
+          [
+            86.65861,
+            27.9475
+          ],
+          [
+            86.65257,
+            27.83057
+          ],
+          [
+            86.71058,
+            27.80528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "annapurna-base-camp-abc-trek",
+        "name": "Annapurna Base Camp (ABC) Trek",
+        "colour": "#388E3C",
+        "route_text": "Nayapul – Ghandruk – Chhomrong – Himalaya Hotel – Machhapuchhre Base Camp – Annapurna Base Camp",
+        "rescue_point_count": 5,
+        "min_rescue_altitude_m": 2000,
+        "max_rescue_altitude_m": 4130,
+        "waypoint_names": [
+          "Nayapul",
+          "Ghandruk",
+          "Chhomrong",
+          "Himalaya Hotel",
+          "Machhapuchhre Base Camp (MBC)",
+          "Annapurna Base Camp (ABC)"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.88858,
+            28.33013
+          ],
+          [
+            83.826088,
+            28.463279
+          ],
+          [
+            83.81853,
+            28.42426
+          ],
+          [
+            83.888,
+            28.4885
+          ],
+          [
+            83.907668,
+            28.526604
+          ],
+          [
+            83.872889,
+            28.530417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "annapurna-circuit-trek",
+        "name": "Annapurna Circuit Trek",
+        "colour": "#F57C00",
+        "route_text": "Besisahar – Chame – Manang – Yak Kharka – Thorong Phedi – Thorong La Pass – Muktinath – Jomsom",
+        "rescue_point_count": 5,
+        "min_rescue_altitude_m": 2650,
+        "max_rescue_altitude_m": 4450,
+        "waypoint_names": [
+          "Besisahar",
+          "Chame",
+          "Manang",
+          "Yak Kharka / Thorong Phedi",
+          "Thorong La Pass",
+          "Muktinath",
+          "Jomsom"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.3775,
+            28.23111
+          ],
+          [
+            84.25097,
+            28.55369
+          ],
+          [
+            84.185712,
+            28.641948
+          ],
+          [
+            83.955564,
+            28.787229
+          ],
+          [
+            83.941,
+            28.802
+          ],
+          [
+            83.85791,
+            28.80175
+          ],
+          [
+            83.773026,
+            28.776505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "langtang-valley-trek",
+        "name": "Langtang Valley Trek",
+        "colour": "#7B1FA2",
+        "route_text": "Syabrubesi – Lama Hotel – Langtang Village – Kyanjin Gompa",
+        "rescue_point_count": 3,
+        "min_rescue_altitude_m": 2500,
+        "max_rescue_altitude_m": 3870,
+        "waypoint_names": [
+          "Syabrubesi",
+          "Lama Hotel",
+          "Langtang Village",
+          "Kyanjin Gompa"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.398703,
+            28.15489
+          ],
+          [
+            85.430074,
+            28.161507
+          ],
+          [
+            85.50611,
+            28.21639
+          ],
+          [
+            85.5607,
+            28.2119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "manaslu-circuit-trek",
+        "name": "Manaslu Circuit Trek",
+        "colour": "#00897B",
+        "route_text": "Soti Khola – Maccha Khola – Samagaun – Samdo – Larke Pass – Bimthang – Dharapani",
+        "rescue_point_count": 4,
+        "min_rescue_altitude_m": 1860,
+        "max_rescue_altitude_m": 3875,
+        "waypoint_names": [
+          "Soti Khola",
+          "Maccha Khola",
+          "Samagaun",
+          "Samdo",
+          "Larke Pass",
+          "Bimthang",
+          "Dharapani"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.854187,
+            28.147537
+          ],
+          [
+            84.857,
+            28.2895
+          ],
+          [
+            84.5851,
+            28.635206
+          ],
+          [
+            84.63762,
+            28.65238
+          ],
+          [
+            84.508724,
+            28.66121
+          ],
+          [
+            84.47129,
+            28.63384
+          ],
+          [
+            84.358611,
+            28.518056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mardi-himal-trek",
+        "name": "Mardi Himal Trek",
+        "colour": "#C2185B",
+        "route_text": "Kande – Forest Camp – High Camp – Mardi Himal Base Camp",
+        "rescue_point_count": 2,
+        "min_rescue_altitude_m": 3580,
+        "max_rescue_altitude_m": 5587,
+        "waypoint_names": [
+          "Kande",
+          "Forest Camp",
+          "High Camp",
+          "Mardi Himal Base Camp"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.82364,
+            28.293
+          ],
+          [
+            83.8782,
+            28.4458
+          ],
+          [
+            83.868204,
+            28.433774
+          ],
+          [
+            83.901681,
+            28.464286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ghorepani-poon-hill-trek",
+        "name": "Ghorepani-Poon Hill Trek",
+        "colour": "#5D4037",
+        "route_text": "Nayapul – Tikhedhunga – Ghorepani – Poon Hill – Tadapani – Ghandruk",
+        "rescue_point_count": 3,
+        "min_rescue_altitude_m": 2012,
+        "max_rescue_altitude_m": 3210,
+        "waypoint_names": [
+          "Nayapul",
+          "Tikhedhunga",
+          "Ghorepani",
+          "Poon Hill Viewpoint",
+          "Tadapani",
+          "Ghandruk"
+        ],
+        "has_approximate_waypoints": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.88858,
+            28.33013
+          ],
+          [
+            83.7755,
+            28.3455
+          ],
+          [
+            83.689384,
+            28.399857
+          ],
+          [
+            83.687649,
+            28.392924
+          ],
+          [
+            83.77584,
+            28.38927
+          ],
+          [
+            83.826088,
+            28.463279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "upper-mustang-trek",
+        "name": "Upper Mustang Trek",
+        "colour": "#455A64",
+        "route_text": "Jomsom – Kagbeni – Lo Manthang",
+        "rescue_point_count": 2,
+        "min_rescue_altitude_m": 2743,
+        "max_rescue_altitude_m": 3840,
+        "waypoint_names": [
+          "Jomsom",
+          "Kagbeni",
+          "Lo Manthang"
+        ],
+        "has_approximate_waypoints": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.773026,
+            28.776505
+          ],
+          [
+            83.783843,
+            28.83737
+          ],
+          [
+            83.868507,
+            29.208046
+          ]
+        ]
+      }
+    }
+  ]
+}

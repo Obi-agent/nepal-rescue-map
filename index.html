@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nepal Rescue Routes Map</title>
+  <meta name="description" content="Interactive mapping tool for Nepal trekking routes and helicopter rescue points." />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <p class="eyebrow">Compass Point Assist</p>
+        <h1>Nepal Trekking Routes and Helicopter Rescue Points</h1>
+        <p class="lede">Interactive planning visualisation for rescue and medical assistance coordination across major trekking routes in Nepal.</p>
+      </div>
+
+      <section class="summary-grid" id="summaryGrid"></section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>Route filters</h2>
+          <div class="toolbar">
+            <button id="showAllBtn" class="btn btn-primary">Show all</button>
+            <button id="resetViewBtn" class="btn">Reset view</button>
+          </div>
+        </div>
+        <div id="routeButtons" class="route-buttons"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>Route detail</h2>
+        </div>
+        <div id="routeDetail" class="route-detail empty-state">
+          Select a route to isolate its line and rescue points.
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>Rescue points</h2>
+          <input id="searchInput" type="search" placeholder="Search point or route" aria-label="Search rescue points" />
+        </div>
+        <div id="pointCount" class="small-note"></div>
+        <div id="pointList" class="point-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>Operational note</h2>
+        </div>
+        <p class="small-note">
+          This map is a waypoint-based planning tool built from the supplied route workbook. It is not a flight operations chart or a surveyed trail GPX. Any point flagged as approximate should be validated against current local operator intelligence, weather, terrain, and landing feasibility before activation.
+        </p>
+      </section>
+    </aside>
+
+    <main class="map-stage">
+      <div class="map-topbar">
+        <div>
+          <strong id="mapModeLabel">Showing all routes</strong>
+          <div class="subtle" id="mapModeSubtext">9 routes, 35 unique rescue points</div>
+        </div>
+        <div class="legend">
+          <span><i class="legend-swatch line"></i> Trekking route</span>
+          <span><i class="legend-swatch point"></i> Rescue point</span>
+          <span><i class="legend-swatch approx"></i> Approximate coordinate</span>
+        </div>
+      </div>
+      <div id="map"></div>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="https://unpkg.com/esri-leaflet@3.0.14/dist/esri-leaflet.js" crossorigin=""></script>
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
